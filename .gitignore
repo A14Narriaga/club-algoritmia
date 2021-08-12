@@ -1,4 +1,3 @@
-	
-	*.exe
-	bin/
-	.classpath
+*.exe
+bin/
+.classpath
